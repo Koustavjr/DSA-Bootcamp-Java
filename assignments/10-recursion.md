@@ -2,7 +2,7 @@
 - [Complete Recursion Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
 
 # Problems
-
+19 gfg problems easy
 ## Easy
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
